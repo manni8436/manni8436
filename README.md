@@ -6,7 +6,7 @@ I'm Emanuel, a London Bus Driver at the moment.
 
 I'm currently studying [Code Institute](https://codeinstitute.net/)'s Full Stack Web Developer course, and working as a Bus Driver for Metroline.
 
-Before discovering the world of coding, I had a lot of customer service related jobs. Whilst during lockdowns were happening I decided to look at possible courses and I had the interest in coding and had a dab at it a few years back, so I enrolled in a 5 day Coding Challenge from [Code Institute](https://codeinstitute.net/), wasnt sure what to expect, it was only 5 days of my life. but i enjoyed every single moment of it and it was decided, I enrolled on [Code Institute](https://codeinstitute.net/)'s Full Stack Developer course, where every day is a chance to learn something new.
+Before discovering the world of coding, I had a lot of customer service related jobs. Whilst during lockdowns were happening I decided to look at possible courses and I had the interest in coding and was able to have a go at it a few years back, so I enrolled in a 5 day Coding Challenge from [Code Institute](https://codeinstitute.net/), wasnt sure what to expect, it was only 5 days of my life. but i enjoyed every single moment of it and it was decided, I enrolled on [Code Institute](https://codeinstitute.net/)'s Full Stack Developer course, where every day is a chance to learn something new.
 
 ## Stack 
 
