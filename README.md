@@ -29,4 +29,4 @@ Before discovering the world of coding, I had a lot of customer service related 
 
 ## Contact me
 
-<a href="https://www.linkedin.com/in/emanuel-silva-43190493/"><img height="50px" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" /></a> <a href="mailto:emanuel.silva1984@hotmail.com"><img height="50px" width="50px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/email.svg" /></a>
+[<img src="./linked-in.png" width="250">](https://www.linkedin.com/in/emanuel-da-silva/)
