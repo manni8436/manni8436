@@ -16,10 +16,11 @@ Before discovering the world of coding, I had a lot of customer service related 
 
 - ### **Learning in progress**         
  
+ <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django logo" width="50px" height="50px" /> 
 
 - ### **Future learning plans**
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django logo" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React logo" height="50px" width="50px" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React logo" height="50px" width="50px" />
 
 ## GitHub statistics
 
