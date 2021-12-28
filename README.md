@@ -32,6 +32,8 @@ Before discovering the world of coding, I had a lot of customer service related 
 
 ---
 
+![AWS](images/aws.svg) ![Travis CI](images/travisci.svg)
+
 #### **Future Learning**
 
 ---
