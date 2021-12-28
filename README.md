@@ -20,13 +20,15 @@ Before discovering the world of coding, I had a lot of customer service related 
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React logo" height="50px" width="50px" />
 
-## GitHub statistics
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=manni8436&theme=onedark)](https://github.com/manni8436/github-profile-trophy)
+## GitHub Trophies
 
 ![manni8436's GitHub stats](https://github-readme-stats.vercel.app/api?username=manni8436&show_icons=true&theme=prussian)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manni8436&hide=html&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+
+## GitHub statistics
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=manni8436&theme=onedark)](https://github.com/manni8436/github-profile-trophy)
 
 ## Contact me
 
