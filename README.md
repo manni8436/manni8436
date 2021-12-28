@@ -24,6 +24,7 @@ Before discovering the world of coding, I had a lot of customer service related 
 ![MongoDB](images/mongodb.svg) ![MySQL](images/mysql.svg) ![PostgreSQL](images/postgresql.svg)
 
 #### **Development and Deployment**
+![Heroku](images/heroku.svg) ![Git](images/git.svg) ![Gitpod](images/gitpod.svg) ![GitHub](images/github.svg) ![GitHub Pages](images/githubpages.svg)
 
 ---
 
@@ -49,4 +50,4 @@ Before discovering the world of coding, I had a lot of customer service related 
 
 ## Contact me
 
-[<img src="./linked-in.png" width="250">](https://www.linkedin.com/in/emanuel-da-silva/) <a href="mailto:emanuel.silva1984@hotmail.com"><img height="50px" width="50px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/email.svg" /></a>
+[<img src="./linked-in.png" width="250">](https://www.linkedin.com/in/emanuel-da-silva/)
