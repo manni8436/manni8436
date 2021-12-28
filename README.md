@@ -22,9 +22,9 @@ Before discovering the world of coding, I had a lot of customer service related 
 
 ## GitHub Statistics
 
-![manni8436's GitHub stats](https://github-readme-stats.vercel.app/api?username=manni8436&show_icons=true&theme=prussian)
+![manni8436's GitHub stats](https://github-readme-stats.vercel.app/api?username=manni8436&show_icons=true&theme=onedark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manni8436&hide=html&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manni8436&hide=html&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## GitHub Trophies
 
