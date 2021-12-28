@@ -22,7 +22,7 @@ Before discovering the world of coding, I had a lot of customer service related 
 
 ## GitHub statistics
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/manni8436/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=manni8436&theme=onedark)](https://github.com/manni8436/github-profile-trophy)
 
 ![manni8436's GitHub stats](https://github-readme-stats.vercel.app/api?username=manni8436&show_icons=true&theme=prussian)
 
