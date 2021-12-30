@@ -28,7 +28,7 @@ Before discovering the world of coding, I had a lot of customer service related 
 
 ---
 
-#### **Learning in process**
+#### **Learning in progress**
 
 ---
 
