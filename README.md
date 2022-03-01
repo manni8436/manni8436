@@ -48,6 +48,14 @@ Before discovering the world of coding, I had a lot of customer service related 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=manni8436&theme=onedark)](https://github.com/manni8436/github-profile-trophy)
 
+## Code Institute Badges
+
+![Happy Holidays Hackathon](images/happy-holidays-hackathon-badge.png) ![Retro Gaming Hackathon](images/retrogaming-hackathon-badge.png)
+
+## CodeWars Profile
+
+![](https://www.codewars.com/users/manni8436/badges/large)
+
 ## Contact me
 
 [<img src="./linked-in.png" width="250">](https://www.linkedin.com/in/emanuel-da-silva/)
