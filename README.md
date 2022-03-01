@@ -24,15 +24,13 @@ Before discovering the world of coding, I had a lot of customer service related 
 ![MongoDB](images/mongodb.svg) ![MySQL](images/mysql.svg) ![PostgreSQL](images/postgresql.svg)
 
 #### **Development and Deployment**
-![Heroku](images/heroku.svg) ![Git](images/git.svg) ![Gitpod](images/gitpod.svg) ![GitHub](images/github.svg) ![GitHub Pages](images/githubpages.svg)
+![Heroku](images/heroku.svg) ![Git](images/git.svg) ![Gitpod](images/gitpod.svg) ![GitHub](images/github.svg) ![Travis CI](images/travisci.svg) ![AWS](images/aws.svg)  ![GitHub Pages](images/githubpages.svg)
 
 ---
 
 #### **Learning in progress**
 
 ---
-
-![AWS](images/aws.svg) ![Travis CI](images/travisci.svg)
 
 #### **Future Learning**
 
