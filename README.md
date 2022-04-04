@@ -46,7 +46,7 @@ Before discovering the world of coding, I had a lot of customer service related 
 
 ## GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=manni8436&margin-w=50&theme=onedark)](https://github.com/manni8436/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=manni8436&margin-w=100&theme=onedark)](https://github.com/manni8436/github-profile-trophy)
 
 ## Code Institute Badges
 
