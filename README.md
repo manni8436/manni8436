@@ -58,7 +58,7 @@ Having completed a Full Stack Web Developer course from [Code Institute](https:/
 
 |  Milestone Project Number   | Legend Of The Greek Gods | Pass  |
 | :-------------------------: | :----------------------: | :---: |
-|    Milestone Project One    | [<img src="./images/MS1-responsive-image.png" width="250">](https://manni8436.github.io/MS1-Project/) | Pass  |
+|    Milestone Project One    | [<img src="./images/MS1-responsive-image.png">](https://manni8436.github.io/MS1-Project/) | Pass  |
 
 
 ## Code Institute Badges
