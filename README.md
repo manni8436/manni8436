@@ -52,13 +52,17 @@ Having completed a Full Stack Web Developer course from [Code Institute](https:/
 
 ## GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=manni8436&margin-w=100&theme=onedark)](https://github.com/manni8436/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=manni8436&margin-w=20&theme=onedark)](https://github.com/manni8436/github-profile-trophy)
 
 ## Milestone Projects
 
 |  Milestone Project One   | Legend Of The Greek Gods | Pass  |
 | :-------------------------: | :----------------------: | :---: |
-|  My first milestone project was built using HTML, CSS and Bootstrap. I created a website based on Greek Mythology, designed to give detailed information and history about the Greek Gods.     | [<img src="./images/MS1-responsive-image.png">](https://manni8436.github.io/MS1-Project/) | Pass  |
+|  My first milestone project was built using HTML, CSS and Bootstrap. I created a website based on Greek Mythology, designed to give detailed information and history about the Greek Gods.| [<img src="./images/MS1-responsive-image.png">](https://manni8436.github.io/MS1-Project/) | Pass  |
+
+|  Milestone Project Two   | Pharaoh's Match | Pass  |
+| :-------------------------: | :----------------------: | :---: |
+|  My first milestone project was built using HTML, CSS and Bootstrap. I created a website based on Greek Mythology, designed to give detailed information and history about the Greek Gods.| [<img src="./images/MS2-responsive-image.png">](https://manni8436.github.io/MS2-Project/) | Pass  |
 
 
 ## Code Institute Badges
