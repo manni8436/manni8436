@@ -52,7 +52,7 @@ Having completed a Full Stack Software Developer course from [Code Institute](ht
 
 ## GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=manni8436&margin-w=20&theme=onedark)](https://github.com/manni8436/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=manni8436&margin-w=45&theme=onedark)](https://github.com/manni8436/github-profile-trophy)
 
 # Milestone Projects
 
