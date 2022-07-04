@@ -70,10 +70,12 @@ As part of the [Code Institute](https://codeinstitute.net/)'s Full Stack Softwar
 
 | Date, Team and Theme  | Project | Results  |
 | :-------------: | :----------------------: | :---: |
-| <p> made by team M8 in the Code Institute June 2021 Hackathon</p> <p>built using HTML, CSS, JavaScript and Bootstrap.</p> | [<img src="./images/June-Hackathon-2021.jpg">](https://manni8436.github.io/PrideHackathon/) <p>A site to detail the history of the LGBTQ+ movement, with a theme of Proud Coders</p> | ![June 2021 Hackathon Badge](./images/June-2021-hackathon-badge.png)  |
+| <p>Made by team M8 in the Code Institute June 2021 Hackathon</p> <p>built using HTML, CSS, JavaScript and Bootstrap.</p> | [<img src="./images/June-Hackathon-2021.jpg">](https://manni8436.github.io/PrideHackathon/) <p>A site to detail the history of the LGBTQ+ movement, with a theme of Proud Coders</p> | ![June 2021 Hackathon Badge](./images/June-2021-hackathon-badge.png)|
 
 
-
+| Date, Team and Theme  | Project | Results  |
+| :-------------: | :----------------------: | :---: |
+| <p>Made by team 1-Bit Short of a Flappy Disk in the Code Institute August 2021 Hackathon</p> <p>built using HTML, CSS and JavaScript..</p> | [<img src="./images/icecapades-screenshot.png">](https://manni8436.github.io/icecapades/) <p>A side-scrolling game with the character Tux, the Linux mascot.</p> | ![August 2021 Hackathon Badge](./images/August-2021-hackathon-badge.png)|
 
 
 ## Code Institute Badges
