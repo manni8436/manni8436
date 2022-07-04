@@ -66,6 +66,16 @@ As part of the [Code Institute](https://codeinstitute.net/)'s Full Stack Softwar
 |  My third milestone project was built using HTML, CSS, JavaScript, Python and Materialize CSS. I created a food recipe website that allows you to view, add, edit and delete your own recipes | [<img src="./images/MS3-responsive-image.png">](https://for-the-love-of-food.herokuapp.com/) | Pass  |
 |  My fourth and final project while studying at Code Institute, this project was created using HTML5, CSS3, JavaScript, Python, Django and Bootstrap5. Where I created an e-commerce website that allows you to purchase Dinosaurs, while also being to add, edit and delete your own Dinosaur. | [<img src="./images/MS4-responsive-image.png">](https://dinotopia.herokuapp.com/) | Merit  |
 
+# Hackathon Projects
+
+| Date and Theme  | Project | Results  |
+| :-------------: | :----------------------: | :---: |
+|<p>June 2021</p> <p>LGBTQ+ History</p> | [<img src="./images/June-Hackathon-2021.jpg">](https://manni8436.github.io/PrideHackathon/) | ![June 2021 Hackathon Badge](./images/LGBTQ-History.png)  |
+
+
+
+
+
 ## Code Institute Badges
 
 ![Happy Holidays Hackathon](images/happy-holidays-hackathon-badge.png) ![Retro Gaming Hackathon](images/retrogaming-hackathon-badge.png)
