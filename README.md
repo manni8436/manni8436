@@ -70,7 +70,7 @@ As part of the [Code Institute](https://codeinstitute.net/)'s Full Stack Softwar
 
 | Date and Theme  | Project | Results  |
 | :-------------: | :----------------------: | :---: |
-|<p>June 2021</p> <p>LGBTQ+ History</p> | [<img src="./images/June-Hackathon-2021.jpg">](https://manni8436.github.io/PrideHackathon/) | ![June 2021 Hackathon Badge](./images/LGBTQ-History.png)  |
+|<p>June 2021</p> <p>LGBTQ+ History</p> <p>A site to detail the history of the LGBTQ+ movement, made by team M8 in the Code Institute June 2021 Hackathon, with a theme of Proud Coders, which was built using HTML, CSS, JavaScript and Bootstrap.</p> | [<img src="./images/June-Hackathon-2021.jpg">](https://manni8436.github.io/PrideHackathon/) | ![June 2021 Hackathon Badge](./images/LGBTQ-History.png)  |
 
 
 
