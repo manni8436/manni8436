@@ -46,13 +46,15 @@ Having completed a Full Stack Software Developer course from [Code Institute](ht
 
 ## GitHub Statistics
 
-![manni8436's GitHub stats](https://github-readme-stats.vercel.app/api?username=manni8436&show_icons=true&theme=onedark)
+![manni8436's GitHub stats](https://github-readme-stats.vercel.app/api?username=manni8436&show_icons=true&theme=chartreuse-dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manni8436&hide=html&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manni8436&theme=chartreuse-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=manni8436&margin-w=45&theme=onedark)](https://github.com/manni8436/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=manni8436&theme=matrix)](https://github.com/manni8436/github-profile-trophy)
+
 
 # Milestone Projects
 
