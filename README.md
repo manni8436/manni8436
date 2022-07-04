@@ -70,17 +70,10 @@ As part of the [Code Institute](https://codeinstitute.net/)'s Full Stack Softwar
 
 | Date, Team and Theme  | Project | Results  |
 | :-------------: | :----------------------: | :---: |
-| <p>Made by team M8 in the Code Institute June 2021 Hackathon</p> <p>built using HTML, CSS, JavaScript and Bootstrap.</p> | [<img src="./images/June-Hackathon-2021.jpg">](https://manni8436.github.io/PrideHackathon/) <p>A site to detail the history of the LGBTQ+ movement, with a theme of Proud Coders</p> | ![June 2021 Hackathon Badge](./images/June-2021-hackathon-badge.png)|
-
-
-| Date, Team and Theme  | Project | Results  |
-| :-------------: | :----------------------: | :---: |
-| <p>Made by team 1-Bit Short of a Flappy Disk in the Code Institute August 2021 Hackathon</p> <p>built using HTML, CSS and JavaScript..</p> | [<img src="./images/icecapades-screenshot.png">](https://manni8436.github.io/icecapades/) <p>A side-scrolling game with the character Tux, the Linux mascot.</p> | ![August 2021 Hackathon Badge](./images/August-2021-hackathon-badge.png)|
-
-
-## Code Institute Badges
-
-![Happy Holidays Hackathon](images/happy-holidays-hackathon-badge.png) ![Retro Gaming Hackathon](images/retrogaming-hackathon-badge.png)
+| <p>Made by team M8 in the [Code Institute](https://codeinstitute.net/)'s June 2021 Hackathon</p> <p>built using HTML, CSS, JavaScript and Bootstrap.</p> | [<img src="./images/June-Hackathon-2021.jpg">](https://manni8436.github.io/PrideHackathon/) <p>A site to detail the history of the LGBTQ+ movement, with a theme of Proud Coders</p> | ![June 2021 Hackathon Badge](./images/June-2021-hackathon-badge.png)|
+| <p>Made by team 1-Bit Short of a Flappy Disk in the [Code Institute](https://codeinstitute.net/)'s August 2021 Hackathon</p> <p>built using HTML, CSS and JavaScript..</p> | [<img src="./images/icecapades-screenshot.png">](https://manni8436.github.io/icecapades/) <p>A side-scrolling game with the character Tux, the Linux mascot.</p> | ![August 2021 Hackathon Badge](./images/August-2021-hackathon-badge.png)|
+| <p>Made by team DD-AA in the [Code Institute](https://codeinstitute.net/)'s November 2021 Hackathon</p> <p>built using HTML, CSS and JavaScript..</p> | [<img src="./images/breast-cancer-responsive-image.jpg">](https://manni8436.github.io/Think-Pink/) <p>A website on up-and-coming technologies for early breast cancer screening, while raising breast cancer awareness</p> | ![November 2021 Hackathon Badge](./images/November-2021-hackathon-badge.png)|
+| <p>Made by team Santa's lil' hackers in the [Code Institute](https://codeinstitute.net/)'s December 2021 Hackathon</p> <p>built using HTML, CSS and JavaScript.</p> | [<img src="./images/hackvent-calendar.png">](https://manni8436.github.io/hackvent-calendar/) <p>A advent calendar style website, where the user would have to solve a code related challenge in which they would receive a special reward upon successful completion of the challenge.</p> | ![December 2021 Hackathon Badge](./images/holiday-hackathon.png)|
 
 ## CodeWars Profile
 
