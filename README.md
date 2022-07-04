@@ -48,12 +48,11 @@ Having completed a Full Stack Software Developer course from [Code Institute](ht
 
 ![manni8436's GitHub stats](https://github-readme-stats.vercel.app/api?username=manni8436&show_icons=true&theme=chartreuse-dark)
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manni8436&theme=chartreuse-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=manni8436&theme=matrix)](https://github.com/manni8436/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=manni8436&margin-w=45&theme=matrix)](https://github.com/manni8436/github-profile-trophy)
 
 
 # Milestone Projects
@@ -66,7 +65,6 @@ As part of the [Code Institute](https://codeinstitute.net/)'s Full Stack Softwar
 |  My second milestone project was built using HTML, CSS, JavaScript and Bootstrap. I created a website card matching game with a theme based on Ancient Egypt. | [<img src="./images/MS2-responsive-image.png">](https://manni8436.github.io/MS2-Project/) | Pass  |
 |  My third milestone project was built using HTML, CSS, JavaScript, Python and Materialize CSS. I created a food recipe website that allows you to view, add, edit and delete your own recipes | [<img src="./images/MS3-responsive-image.png">](https://for-the-love-of-food.herokuapp.com/) | Pass  |
 |  My fourth and final project while studying at Code Institute, this project was created using HTML5, CSS3, JavaScript, Python, Django and Bootstrap5. Where I created an e-commerce website that allows you to purchase Dinosaurs, while also being to add, edit and delete your own Dinosaur. | [<img src="./images/MS4-responsive-image.png">](https://dinotopia.herokuapp.com/) | Merit  |
-
 
 ## Code Institute Badges
 
