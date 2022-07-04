@@ -10,10 +10,6 @@ I'm Emanuel, Currently a Metroline Bus Driver in London.
 
 Having completed a Full Stack Software Developer course from [Code Institute](https://codeinstitute.net/), and was awarded a pass. I am now on the search for my first job in the tech industry as a Junior Developer.
 
-
-
----
-
 ### My Tech Stack 
 
 #### **Frontend**
@@ -28,9 +24,13 @@ Having completed a Full Stack Software Developer course from [Code Institute](ht
 
 ![MongoDB](images/mongodb.svg) ![MySQL](images/mysql.svg) ![PostgreSQL](images/postgresql.svg)
 
+#### **Version Control**
+
+![Git](images/git.svg) ![Gitpod](images/gitpod.svg)
+
 #### **Development and Deployment**
 
-![Heroku](images/heroku.svg) ![Git](images/git.svg) ![Gitpod](images/gitpod.svg) ![GitHub](images/github.svg) ![Travis CI](images/travisci.svg) ![AWS](images/aws.svg)  ![GitHub Pages](images/githubpages.svg)
+![Heroku](images/heroku.svg) ![GitHub](images/github.svg) ![Travis CI](images/travisci.svg) ![AWS](images/aws.svg)  ![GitHub Pages](images/githubpages.svg)
 
 ---
 
