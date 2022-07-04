@@ -56,9 +56,9 @@ Having completed a Full Stack Web Developer course from [Code Institute](https:/
 
 ## Milestone Projects
 
-|  Milestone Project Number   | Legend Of The Greek Gods | Pass  |
+|  Milestone Project One   | Legend Of The Greek Gods | Pass  |
 | :-------------------------: | :----------------------: | :---: |
-|    Milestone Project One    | [<img src="./images/MS1-responsive-image.png">](https://manni8436.github.io/MS1-Project/) | Pass  |
+|  My first milestone project was built using HTML, CSS and Bootstrap. I created a website based on Greek Mythology, designed to give detailed information and history about the Greek Gods.     | [<img src="./images/MS1-responsive-image.png">](https://manni8436.github.io/MS1-Project/) | Pass  |
 
 
 ## Code Institute Badges
