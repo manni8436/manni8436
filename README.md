@@ -62,7 +62,7 @@ Having completed a Full Stack Web Developer course from [Code Institute](https:/
 
 |  Milestone Project Two   | Pharaoh's Match | Pass  |
 | :-------------------------: | :----------------------: | :---: |
-|  My first milestone project was built using HTML, CSS and Bootstrap. I created a website based on Greek Mythology, designed to give detailed information and history about the Greek Gods.| [<img src="./images/MS2-responsive-image.png">](https://manni8436.github.io/MS2-Project/) | Pass  |
+|  My second milestone project was built using HTML, CSS, JavaScript and Bootstrap. I created a website card matching game with a theme based on Ancient Egypt.| [<img src="./images/MS2-responsive-image.png">](https://manni8436.github.io/MS2-Project/) | Pass  |
 
 
 ## Code Institute Badges
