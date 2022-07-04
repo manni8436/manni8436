@@ -1,29 +1,35 @@
-# About me
+![Banner Image](images/coding-image.jpg)
 
-Hi,
+# Emanuel Silva, Junior Software Developer
 
-I'm Emanuel, a London Bus Driver at the moment.
+# About Me
 
-I'm currently studying [Code Institute](https://codeinstitute.net/)'s Full Stack Web Developer course, and working as a Bus Driver for Metroline.
+Welcome to my profile page,
 
-Before discovering the world of coding, I had a lot of customer service related jobs. Whilst during lockdowns was happening I decided to look at possible courses and I had the interest in coding in the past and was able to have a go at it a few years back, so I enrolled in a 5 day Coding Challenge from [Code Institute](https://codeinstitute.net/), wasnt sure what to expect, it was only 5 days of my life. but i enjoyed every single moment of it and it was then i decided it was time for a career change, so I enrolled on [Code Institute](https://codeinstitute.net/)'s Full Stack Developer course, where every day is a chance to learn something new.
+I'm Emanuel, Currently a Metroline Bus Driver in London.
+
+Having completed a Full Stack Web Developer course from [Code Institute](https://codeinstitute.net/), and was awarded a pass. I am now on the search for my first job in the tech industry as a Junior Developer.
+
+
 
 ---
 
-### Stack 
+### My Tech Stack 
 
 #### **Frontend**
 
-![HTML5](images/html.svg) ![CSS3](images/css.svg) ![JS](images/JavaScript.svg) ![JS](images/bootstrap.svg) ![JS](images/json.svg) 
+![HTML5](images/html.svg) ![CSS3](images/css.svg) ![JS](images/JavaScript.svg) ![JS](images/bootstrap.svg) ![JS](images/json.svg)
 
 #### **Backend**
 
 ![Python](images/python.svg) ![Flask](images/flask.svg) ![Jinja](images/jinja.svg) ![Django](images/django.svg) ![Stripe](images/stripe.svg)
 
 #### **Database**
+
 ![MongoDB](images/mongodb.svg) ![MySQL](images/mysql.svg) ![PostgreSQL](images/postgresql.svg)
 
 #### **Development and Deployment**
+
 ![Heroku](images/heroku.svg) ![Git](images/git.svg) ![Gitpod](images/gitpod.svg) ![GitHub](images/github.svg) ![Travis CI](images/travisci.svg) ![AWS](images/aws.svg)  ![GitHub Pages](images/githubpages.svg)
 
 ---
@@ -47,6 +53,13 @@ Before discovering the world of coding, I had a lot of customer service related 
 ## GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=manni8436&margin-w=100&theme=onedark)](https://github.com/manni8436/github-profile-trophy)
+
+## Milestone Projects
+
+|  Milestone Project Number   | Legend Of The Greek Gods | Pass  |
+| :-------------------------: | :----------------------: | :---: |
+|    Milestone Project One    | [<img src="./images/MS1-responsive-image.png" width="250">](https://manni8436.github.io/MS1-Project/) | Pass  |
+
 
 ## Code Institute Badges
 
