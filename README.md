@@ -4,11 +4,13 @@
 
 # About Me
 
-Welcome to my profile page,
+Welcome to my profile page.
 
-I'm Emanuel, Currently a Metroline Bus Driver in London.
+I'm Emanuel, currently a Metroline Bus Driver in London.
 
-Having completed a Full Stack Software Developer course from [Code Institute](https://codeinstitute.net/), and was awarded a pass. I am now on the search for my first job in the tech industry as a Junior Developer.
+Having completed a Full Stack Software Developer course from [Code Institute](https://codeinstitute.net/) on 14th February 2022 and was awarded a pass, I am now on the search for my first job in the tech industry as a Junior Developer.
+
+I have always been interested in learning code and love learning new skills. Prior to commencing January 2021, I had done some coding a few years back, which consisted of just some basic HTML and CSS. In 2021, I enrolled in the 5 day coding challenge with [Code Institute](https://codeinstitute.net/) and loved every single moment of it, it was then that I decided it was time for a career change.
 
 ### My Tech Stack 
 
@@ -41,7 +43,6 @@ Having completed a Full Stack Software Developer course from [Code Institute](ht
 #### **Future Learning**
 
 ---
-
 ![React](images/reactjs.svg)
 
 ## GitHub Statistics
@@ -68,11 +69,9 @@ As part of the [Code Institute](https://codeinstitute.net/)'s Full Stack Softwar
 
 # Hackathon Projects
 
-I joined my first hackathon in June 2021, initially it was scary as I had never done anything like this before but after having the first collaborative meeting, then got rolling and it was one of the best choices I had made since starting the course.
+[Code Institute](https://codeinstitute.net/) have monthly hackathon projects where I am working with a small group of fellow developers to produce a themed project in 5 days.
 
-While doing a hackathon, everyday is a learning opportunity, the level of team work can be amazing and the amount of fun you can have is incredible to get a finished product.
-
-After my initial hackathon, I knew that I will be doing more in the future.
+Communication is the key to success while doing these projects. We work collaboratively within an agile environment and use sprints to successfully complete the project in time. Please see below for more information regarding my contribution to theses hackathons.
 
 | Date, Team and Theme  | Project | Results  |
 | :-------------: | :----------------------: | :---: |
