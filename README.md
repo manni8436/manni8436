@@ -58,14 +58,14 @@ I have always been interested in learning code and love learning new skills. Pri
 
 # Milestone Projects
 
-As part of the [Code Institute](https://codeinstitute.net/)'s Full Stack Software Development Course. I was asked to create four projects.
+As part of the [Code Institute](https://codeinstitute.net/)'s Full Stack Software Development Course. I was required to create four projects:
 
 |  Milestone Project       | Project | Grade  |
 | :----------------------: | :----------------------: | :---: |
 |  My first milestone project was built using HTML, CSS and Bootstrap. I created a website based on Greek Mythology, designed to give detailed information and history about the Greek Gods. | [<img src="./images/MS1-responsive-image.png">](https://manni8436.github.io/MS1-Project/) | Pass  |
 |  My second milestone project was built using HTML, CSS, JavaScript and Bootstrap. I created a website card matching game with a theme based on Ancient Egypt. | [<img src="./images/MS2-responsive-image.png">](https://manni8436.github.io/MS2-Project/) | Pass  |
-|  My third milestone project was built using HTML, CSS, JavaScript, Python and Materialize CSS. I created a food recipe website that allows you to view, add, edit and delete your own recipes | [<img src="./images/MS3-responsive-image.png">](https://for-the-love-of-food.herokuapp.com/) | Pass  |
-|  My fourth and final project while studying at Code Institute, this project was created using HTML5, CSS3, JavaScript, Python, Django and Bootstrap5. Where I created an e-commerce website that allows you to purchase Dinosaurs, while also being to add, edit and delete your own Dinosaur. | [<img src="./images/MS4-responsive-image.png">](https://dinotopia.herokuapp.com/) | Merit  |
+|  My third milestone project was built using HTML, CSS, JavaScript, Python and Materialize CSS. I created a food recipe website using CRUD functionality that allows you to view, add, edit and delete your own recipes. | [<img src="./images/MS3-responsive-image.png">](https://for-the-love-of-food.herokuapp.com/) | Pass  |
+|  My fourth and final project was created using HTML5, CSS3, JavaScript, Python, Django and Bootstrap5. Where I created an e-commerce website that allows you to purchase dinosaurs, while also being able to add, edit and delete your own dinosaur. | [<img src="./images/MS4-responsive-image.png">](https://dinotopia.herokuapp.com/) | Merit  |
 
 # Hackathon Projects
 
@@ -75,10 +75,10 @@ Communication is the key to success while doing these projects. We work collabor
 
 | Date, Team and Theme  | Project | Results  |
 | :-------------: | :----------------------: | :---: |
-| <p>Made by team M8 in the [Code Institute](https://codeinstitute.net/)'s June 2021 Hackathon</p> <p>built using HTML, CSS, JavaScript and Bootstrap.</p> | [<img src="./images/June-Hackathon-2021.jpg">](https://manni8436.github.io/PrideHackathon/) <p>A site to detail the history of the LGBTQ+ movement, with a theme of Proud Coders</p> | ![June 2021 Hackathon Badge](./images/June-2021-hackathon-badge.png)|
-| <p>Made by team 1-Bit Short of a Flappy Disk in the [Code Institute](https://codeinstitute.net/)'s August 2021 Hackathon</p> <p>built using HTML, CSS and JavaScript..</p> | [<img src="./images/icecapades-screenshot.png">](https://manni8436.github.io/icecapades/) <p>A side-scrolling game with the character Tux, the Linux mascot.</p> | ![August 2021 Hackathon Badge](./images/August-2021-hackathon-badge.png)|
-| <p>Made by team DD-AA in the [Code Institute](https://codeinstitute.net/)'s November 2021 Hackathon</p> <p>built using HTML, CSS and JavaScript..</p> | [<img src="./images/breast-cancer-responsive-image.jpg">](https://manni8436.github.io/Think-Pink/) <p>A website on up-and-coming technologies for early breast cancer screening, while raising breast cancer awareness</p> | ![November 2021 Hackathon Badge](./images/November-2021-hackathon-badge.png)|
 | <p>Made by team Santa's lil' hackers in the [Code Institute](https://codeinstitute.net/)'s December 2021 Hackathon</p> <p>built using HTML, CSS and JavaScript.</p> | [<img src="./images/hackvent-calendar.png">](https://manni8436.github.io/hackvent-calendar/) <p>A advent calendar style website, where the user would have to solve a code related challenge in which they would receive a special reward upon successful completion of the challenge.</p> | ![December 2021 Hackathon Badge](./images/holiday-hackathon.png)|
+| <p>Made by team DD-AA in the [Code Institute](https://codeinstitute.net/)'s November 2021 Hackathon</p> <p>built using HTML, CSS and JavaScript..</p> | [<img src="./images/breast-cancer-responsive-image.jpg">](https://manni8436.github.io/Think-Pink/) <p>A website on up-and-coming technologies for early breast cancer screening, while raising breast cancer awareness</p> | ![November 2021 Hackathon Badge](./images/November-2021-hackathon-badge.png)|
+| <p>Made by team 1-Bit Short of a Flappy Disk in the [Code Institute](https://codeinstitute.net/)'s August 2021 Hackathon</p> <p>built using HTML, CSS and JavaScript..</p> | [<img src="./images/icecapades-screenshot.png">](https://manni8436.github.io/icecapades/) <p>A side-scrolling game with the character Tux, the Linux mascot.</p> | ![August 2021 Hackathon Badge](./images/August-2021-hackathon-badge.png)|
+| <p>Made by team M8 in the [Code Institute](https://codeinstitute.net/)'s June 2021 Hackathon</p> <p>built using HTML, CSS, JavaScript and Bootstrap.</p> | [<img src="./images/June-Hackathon-2021.jpg">](https://manni8436.github.io/PrideHackathon/) <p>A site to detail the history of the LGBTQ+ movement, with a theme of Proud Coders</p> | ![June 2021 Hackathon Badge](./images/June-2021-hackathon-badge.png)|
 
 ## CodeWars Profile
 
