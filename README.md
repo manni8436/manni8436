@@ -10,7 +10,7 @@ I'm Emanuel, currently a Metroline Bus Driver in London.
 
 Having completed a Full Stack Software Developer course from [Code Institute](https://codeinstitute.net/) on 14th February 2022 and was awarded a pass, I am now on the search for my first job in the tech industry as a Junior Developer.
 
-I have always been interested in learning code and love learning new skills. Prior to commencing January 2021, I had done some coding a few years back, which consisted of just some basic HTML and CSS. In 2021, I enrolled in the 5 day coding challenge with [Code Institute](https://codeinstitute.net/) and loved every single moment of it, it was then that I decided it was time for a career change.
+I have always been interested in learning code and love learning new skills. Prior to commencing the Full Stack Software Developer course in January 2021, I had done some coding a few years back, which consisted of just some basic HTML and CSS. In 2021, I enrolled in the 5 day coding challenge with [Code Institute](https://codeinstitute.net/) and loved every single moment of it, it was then that I decided it was time for a career change.
 
 ### My Tech Stack 
 
