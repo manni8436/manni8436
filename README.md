@@ -16,35 +16,36 @@ Having completed a Full Stack Software Developer course from [Code Institute](ht
 
 I have always been interested in learning code and love learning new skills. Prior to commencing the Full Stack Software Developer course in January 2021, I had done some coding a few years back, which consisted of just some basic HTML and CSS. In 2021, I enrolled in the 5 day coding challenge with [Code Institute](https://codeinstitute.net/) and loved every single moment of it, it was then that I decided it was time for a career change.
 
-### My Tech Stack 
+# My Tech Stack 
 
-#### **Frontend**
+### **Frontend**
 
 ![HTML5](images/html.svg) ![CSS3](images/css.svg) ![JS](images/JavaScript.svg) ![JS](images/bootstrap.svg) ![JS](images/json.svg)
 
-#### **Backend**
+### **Backend**
 
 ![Python](images/python.svg) ![Flask](images/flask.svg) ![Jinja](images/jinja.svg) ![Django](images/django.svg) ![Stripe](images/stripe.svg)
 
-#### **Database**
+### **Database**
 
 ![MongoDB](images/mongodb.svg) ![MySQL](images/mysql.svg) ![PostgreSQL](images/postgresql.svg)
 
-#### **Version Control**
+### **Version Control**
 
 ![Git](images/git.svg) ![Gitpod](images/gitpod.svg)
 
-#### **Development and Deployment**
+### **Development and Deployment**
 
 ![Heroku](images/heroku.svg) ![GitHub](images/github.svg) ![Travis CI](images/travisci.svg) ![AWS](images/aws.svg)  ![GitHub Pages](images/githubpages.svg)
 
 ---
 
-#### **Learning in progress**
+### **Learning in progress**
 
+![Ruby](images/ruby.svg)
 ---
 
-#### **Future Learning**
+### **Future Learning**
 
 ---
 ![React](images/reactjs.svg)
@@ -55,10 +56,6 @@ I have always been interested in learning code and love learning new skills. Pri
     <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manni8436&theme=chartreuse-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats">
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=manni8436&show_icons=true&theme=chartreuse-dark">
 </p>
-
-<!-- ![manni8436's GitHub stats](https://github-readme-stats.vercel.app/api?username=manni8436&show_icons=true&theme=chartreuse-dark) -->
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manni8436&theme=chartreuse-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ## GitHub Trophies
 
