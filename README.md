@@ -38,12 +38,9 @@ I have always been interested in learning code and love learning new skills. Pri
 
 ![Heroku](images/heroku.svg) ![GitHub](images/github.svg) ![Travis CI](images/travisci.svg) ![AWS](images/aws.svg)  ![GitHub Pages](images/githubpages.svg)
 
----
-
 ### **Learning in progress**
-
-![Ruby](images/ruby.svg)
 ---
+![Ruby](images/ruby.svg)
 
 ### **Future Learning**
 
