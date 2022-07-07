@@ -51,9 +51,14 @@ I have always been interested in learning code and love learning new skills. Pri
 
 ## GitHub Statistics
 
-![manni8436's GitHub stats](https://github-readme-stats.vercel.app/api?username=manni8436&show_icons=true&theme=chartreuse-dark)
+<p align="center" width="100%">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manni8436&theme=chartreuse-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=manni8436&show_icons=true&theme=chartreuse-dark">
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manni8436&theme=chartreuse-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ![manni8436's GitHub stats](https://github-readme-stats.vercel.app/api?username=manni8436&show_icons=true&theme=chartreuse-dark) -->
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manni8436&theme=chartreuse-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ## GitHub Trophies
 
