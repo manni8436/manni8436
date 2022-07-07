@@ -2,6 +2,8 @@
 
 # Emanuel Silva, Junior Software Developer
 
+![octocat](images/octocat.png)
+
 # About Me
 
 Welcome to my profile page.
