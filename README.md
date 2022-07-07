@@ -2,7 +2,9 @@
 
 # Emanuel Silva, Junior Software Developer
 
-![octocat](images/octocat.png)
+<p align="center">
+    <img src="images/octocat.png">
+</p>
 
 # About Me
 
