@@ -44,7 +44,7 @@ I have always been interested in learning code and love learning new skills. Pri
 
 ### **Future Learning**
 ---
-![React](images/reactjs.svg) ![Firebase](images/firebase.svg) ![PHP](images/php.svg)
+![React](images/reactjs.svg) ![Firebase](images/firebase.svg) ![PHP](images/php.svg) ![Next.js](images/nextjs-line.svg) ![Next.js](images/strapi.svg)
 
 ## GitHub Statistics
 
