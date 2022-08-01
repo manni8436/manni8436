@@ -89,3 +89,7 @@ Communication is the key to success while doing these projects. We work collabor
 ## Contact me
 
 [<img src="./linked-in.png" width="250">](https://www.linkedin.com/in/emanuel-da-silva/)
+
+## Visitor count
+
+![Visitor Count](https://profile-counter.glitch.me/manni8436/count.svg)
