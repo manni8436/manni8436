@@ -24,7 +24,7 @@ I have always been interested in learning code and love learning new skills. Pri
 
 ### **Backend**
 
-![Python](images/python.svg) ![Flask](images/flask.svg) ![Jinja](images/jinja.svg) ![Django](images/django.svg) ![Stripe](images/stripe.svg)
+![Python](images/python.svg) ![Flask](images/flask.svg) ![Jinja](images/jinja.svg) ![Django](images/django.svg) ![Stripe](images/stripe.svg) ![Ruby](images/ruby.svg) ![Ruby On Rails](images/rails.svg)
 
 ### **Database**
 
@@ -39,12 +39,14 @@ I have always been interested in learning code and love learning new skills. Pri
 ![Heroku](images/heroku.svg) ![GitHub](images/github.svg) ![Travis CI](images/travisci.svg) ![AWS](images/aws.svg)  ![GitHub Pages](images/githubpages.svg)
 
 ### **Learning in progress**
+
 ---
-![Ruby](images/ruby.svg)
+![React](images/reactjs.svg)
 
 ### **Future Learning**
+
 ---
-![React](images/reactjs.svg) ![Firebase](images/firebase.svg) ![PHP](images/php.svg) ![Next.js](images/nextjs-line.svg) ![Next.js](images/strapi.svg)
+![Firebase](images/firebase.svg) ![PHP](images/php.svg) ![Next.js](images/nextjs-line.svg) ![Next.js](images/strapi.svg) ![Tailwind CSS](images/tailwindcss.svg)
 
 ## GitHub Statistics
 
@@ -56,7 +58,6 @@ I have always been interested in learning code and love learning new skills. Pri
 ## GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=manni8436&margin-w=45&theme=matrix)](https://github.com/manni8436/github-profile-trophy)
-
 
 # Milestone Projects
 
